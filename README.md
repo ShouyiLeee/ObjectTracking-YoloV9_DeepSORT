@@ -32,6 +32,6 @@
 - The class names used by the YOLOv9 model need to be defined in the script. You can find the class names corresponding to your model in the downloaded files or documentation.
 - This project is for educational purposes and might require adjustments for specific applications.
 ## References
-- YOLOv9: https://github.com/philipperemy/yolo-9000 (consider replacing with the official source if available)
+- YOLOv9: https://github.com/WongKinYiu/yolov9
 - DeepSORT: https://github.com/nwojke/deep_sort
 - Real-Time Object Tracking with YOLOv9 and DeepSORT Algorithm
